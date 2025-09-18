@@ -1,23 +1,22 @@
 Created: 2025-09-18
 
-Challenge Type: #OSI
+Challenge Type: #OSINT
 Challenge Difficulty: #Easy
-Attachments: 
+Attachments: [[Meta.jpg]]
 
 Meta
 Description
 ***
 Test your abilities to extract metadata.
 
-*Notes: Just based on the description, we will be looking at the metadata of an image. You can use a variety of tools, such as [cyberchef.com](https://gchq.github.io/CyberChef) and Exiftool. I prefer Exiftool, but to keep it simple, we will use cyberchef for this walkthrough.*
-
 Questions
 ***
+Just based on the description, we will be looking at the metadata of an image. You can use a variety of tools, such as [cyberchef.com](https://gchq.github.io/CyberChef) and Exiftool. I prefer Exiftool, since it will give me a much more detailed readout of the image's metadata, but to keep it simple, we will use cyberchef for this walkthrough.
 #### Q1
 When was the image created? Round down to the nearest minute
 
 Using [cyberchef.com](https://gchq.github.io/CyberChef) Extract EXIF recipe (Multimedia --> Extract EXIF), we can pull up the image EXIF data of the image. This question's answer is under CreateDate
-![[Pasted image 20250918002614.png]]
+![[OSINT-Meta.png]]
 #### Q2
 What are the dimensions of the image? (ex: 800x600)
 

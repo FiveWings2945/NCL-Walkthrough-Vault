@@ -27,3 +27,10 @@ General Tips:
 
 [[Enumeration and Exploitation]]
 
+### Other Files
+***
+[[Attachments]]
+
+[[Flags]]
+
+[[Walkthrough Images]]
