@@ -10,5 +10,12 @@ Rooms Covered
 [[PGP Lookup(TODO)]]
 [[SSL]]
 [[Barcode]]
+
 Tools Used
 ***
+Google.com
+Exiftool
+MITRE ATT&CK framework
+SearchSploit
+whois
+https://online-barcode-reader.inliteresearch.com/

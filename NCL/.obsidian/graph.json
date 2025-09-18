@@ -5,8 +5,23 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:OSINT ",
+      "color": {
+        "a": 1,
+        "rgb": 1888783
+      }
+    },
+    {
+      "query": "path:Cryptography  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,

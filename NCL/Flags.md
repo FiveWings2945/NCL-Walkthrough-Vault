@@ -1,5 +1,5 @@
 ### OSINT
-
+***
 #### Meta
 1) 2015-05-15 02:14
 2) 1024x768
@@ -37,3 +37,18 @@
 #### Barcode
 1) Code 39 
 2) SKY-UZLU-5635
+
+
+### Cryptography
+***
+#### Bases
+1) Patrick:scorpion
+2) Stevie:scribble
+3) Nan:securely
+4) Mollie:lollipop
+
+#### Shift
+1) Jenny:virtual lake
+
+#### @Bash
+1) Molly:safely obvious cave
