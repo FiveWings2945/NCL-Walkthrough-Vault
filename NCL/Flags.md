@@ -52,3 +52,21 @@
 
 #### @Bash
 1) Molly:safely obvious cave
+
+#### Beep
+1) Nom:SKY-DKVB-9816
+
+#### Fencing
+1) Helen:SKY-AIQI-9380
+2) Patrick:SKY-IQIZ-3802
+
+#### French
+1) Tom:SKY-QIZK-8026
+   
+#### Strings
+1) SKY-TVJI-2063
+   
+#### RSA
+1) 13
+2) 83
+3) SKY-KRYG-5530

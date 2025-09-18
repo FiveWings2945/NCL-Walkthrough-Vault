@@ -11,7 +11,7 @@ Our analysts have obtained password dumps storing hacker passwords. See if you c
 
 Questions
 ***
-Based on the challenge title, the passwords probably use a At-Bash operation.. We can use cyber chef to solve this challenge.
+Based on the challenge title, the passwords probably use an At-Bash operation. We can use cyber chef to solve this challenge.
 
 | User  | Ciphertext          | Encoding | Why?                                                                                                                                                                                                                                       |
 | ----- | ------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

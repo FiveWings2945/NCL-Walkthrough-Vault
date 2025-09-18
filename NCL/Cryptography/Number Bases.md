@@ -11,7 +11,7 @@ Our analysts have obtained password dumps storing hacker passwords. After obtain
 
 Questions
 ***
-Just based on the title, this will be related to number bases, like base 2 (binary) or base 64 encryption. We can use [cyber chef](https://gchq.github.io/CyberChef/) to decode these values.
+Just based on the title, this will be related to number bases, like base 2 (binary) or base 64 encryption. These encryption methods are substitution ciphers, where letters are substituted with a code. We can use [cyber chef](https://gchq.github.io/CyberChef/) to decode these values.
 
 | User    | Ciphertext                                                                                                  | Encoding     | Why?                                                                                                                   |
 | ------- | ----------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------- |
