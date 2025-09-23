@@ -20,43 +20,41 @@ This Vault is meant to be a guide for completing the gymnasium challenges for NC
 
 ## Sections
 
-\*\*\*
+Open Source Intelligence
 
-###### Open Source Intelligence
 
-###### 
 
-###### Cryptography
+Cryptography
 
-###### 
 
-###### Password Cracking
 
-###### 
+Password Cracking
 
-###### Forensics
 
-###### 
 
-###### Log Analysis
+Forensics
 
-###### 
 
-###### Network Traffic Analysis
 
-###### 
+Log Analysis
 
-###### Scanning and Reconnaissance
 
-###### 
 
-###### Web Application Exploitation
+Network Traffic Analysis
 
-###### 
 
-###### Wireless Access Exploitation
 
-###### 
+Scanning and Reconnaissance
 
-###### Enumeration and Exploitation
+
+
+Web Application Exploitation
+
+
+
+Wireless Access Exploitation
+
+
+
+Enumeration and Exploitation
 
