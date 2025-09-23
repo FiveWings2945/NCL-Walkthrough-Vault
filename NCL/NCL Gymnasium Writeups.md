@@ -4,7 +4,7 @@ General Tips:
 - Use these walkthroughs to supplement your learning - not replace it
 - These walkthroughs help create a structure to attack future problems. There's almost no guarantee that any of these will show up in an actual competition.
 - There's almost never one singular way to attack a problem, so don't feel chained to my thought process. Feel free to use your own methods you develop.
-- *All flags are located under the **flags** note. This will help those who want to follow the process but avoid just having the answers there*
+- *All flags are located under the **[[flags]]** note. This will help those who want to follow the process but avoid just having the answers there*
 #### Sections
 ***
 [[Open Source Intelligence]]

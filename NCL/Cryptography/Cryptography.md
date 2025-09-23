@@ -13,3 +13,8 @@ Rooms Covered
 
 Tools Used
 ***
+Google.com
+[dcode.fr](https://www.dcode.fr/cipher-identifier)
+[cyber chef](https://gchq.github.io/CyberChef/)
+xxd (Linux)
+[Hexed.it](https://Hexed.it)

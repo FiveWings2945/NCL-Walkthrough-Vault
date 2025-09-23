@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 16755200
       }
+    },
+    {
+      "query": "path:\"Password Cracking\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9710079
+      }
+    },
+    {
+      "query": "path:\"Wireless Access Exploitation\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 22015
+      }
     }
   ],
   "collapse-display": true,
@@ -27,11 +41,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.325363825363825,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224408,
+  "scale": 0.2797563551949782,
   "close": true
 }
