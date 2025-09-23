@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 22015
       }
+    },
+    {
+      "query": "path:\"Web Application Exploitation/BurpSuite\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14608942
+      }
+    },
+    {
+      "query": "path:\"Web Application Exploitation\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": true,
@@ -47,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.2797563551949782,
-  "close": true
+  "close": false
 }

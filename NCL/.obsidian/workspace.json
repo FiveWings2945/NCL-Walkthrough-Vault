@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCL Gymnasium Writeups.md",
+                "file": "egov.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NCL Gymnasium Writeups"
+              "title": "egov"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cryptography",
+                "query": "tag:#Wireless_Access_Exploitation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,12 +209,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "4599f8d307116e26",
+  "active": "5f69cbb04f1a636f",
   "lastOpenFiles": [
+    "Pasted image 20250923152521.png",
+    "egov.md",
+    "Flags.md",
+    "Walkthrough Images/Egov-Cracked.png",
+    "Walkthrough Images/Egov-Burpsuite4.png",
+    "Walkthrough Images/Egov-Burpsuite3.png",
+    "Walkthrough Images/Egov-Burpsuite2.png",
+    "Walkthrough Images/Egov-Burpsuite1.png",
+    "Walkthrough Images/Egov-Website.png",
+    "Web Application Exploitation/Web Application Exploitation.md",
+    "Web Application Exploitation/BurpSuite/Burpsuite.md",
+    "Web Application Exploitation/BurpSuite/Other Modules.md",
+    "Web Application Exploitation/BurpSuite/Repeater.md",
+    "Web Application Exploitation/BurpSuite/Intruder.md",
+    "Web Application Exploitation/BurpSuite/Proxy.md",
+    "Web Application Exploitation/BurpSuite/Target.md",
+    "Web Application Exploitation/BurpSuite/Foxy Proxy.md",
+    "Web Application Exploitation/BurpSuite/Burpsuite - An Overview.md",
+    "Web Application Exploitation/BurpSuite",
+    "Wireless Access Exploitation/WIFI PCAP 3.md",
     "Wireless Access Exploitation/WIFI PCAP 2.md",
-    "Wireless Access Exploitation/WIFI PCAP 3(TODO).md",
-    "NCL Gymnasium Writeups.md",
     "Wireless Access Exploitation/WIFI PCAP 1.md",
+    "Web Application Exploitation",
+    "Untitled.md",
+    "NCL Gymnasium Writeups.md",
+    "Pasted image 20250923130024.png",
+    "Walkthrough Images/WIFI3-Wireshark 4.png",
+    "Walkthrough Images/WIFI3-Wireshark 3.png",
+    "Walkthrough Images/WIFI3-Wireshark 2.png",
     "Untitled.canvas",
     "Attatchments/PCAP3.cap",
     "PCAP3.cap",
@@ -225,36 +250,13 @@
     "Attatchments/PCAP1.pcap.md",
     "PCAP1 2.pcap",
     "Wireless Access Exploitation/Wireless Access Exploitation.md",
-    "Flags.md",
-    "Walkthrough Images/Ophcrack.png",
-    "Walkthrough Images/Aircrack-ng output1.png",
-    "Walkthrough Images/Wireshark Decrypted 1.png",
     "PCAP1 1.pcap",
     "PCAP1.pcap",
-    "Wireless Access Exploitation",
     "Password Cracking/Kali Linux(TODO).md",
     "Attatchments/Kali_Linux_Shadow.md",
     "Attatchments/RSA Values.md",
     "Attatchments/Attachments.md",
     "Password Cracking/Password Cracking.md",
-    "Password Cracking/PDF.md",
-    "OSINT/Open Source Intelligence.md",
-    "Attatchments/encrypted.pdf",
-    "Password Cracking/Law & Order.md",
-    "Password Cracking/Mask.md",
-    "Password Cracking/Pokémon.md",
-    "Password Cracking/Rockyou.md",
-    "Password Cracking/Windows.md",
-    "Walkthrough Images/Ophcrack Cracked.png",
-    "Walkthrough Images/Hashes.com Windows.png",
-    "Walkthrough Images/Pokemon List Generator.png",
-    "Password Cracking/Pokemon.md",
-    "Attatchments/Meta.jpg",
-    "Cryptography/Cryptography.md",
-    "Cryptography/RSA(TODO).md",
-    "Cryptography/Strings.md",
-    "Walkthrough Images/Crypto- Strings.png",
-    "Cryptography/Fencing.md",
-    "Attatchments/Strings.jpg"
+    "Password Cracking/PDF.md"
   ]
 }

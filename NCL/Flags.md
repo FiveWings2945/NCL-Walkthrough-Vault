@@ -131,3 +131,21 @@
 3) 0994FF
 4) DE:AD:10:CC:D1:5E:A5:EC:DC:C2:D6:7A:CA
 5) 08f0
+
+#### WIFI PCAP 3
+1) C0:4A:00:80:76:E4
+2) TP-LINK_8076E4
+3) blueberrymuffin
+4) 192.168.0.254
+5) TPLink
+6) WR702N
+7) 4.19.1
+8) 52704n
+9) 192.168.0.101
+10) B8:E8:56:47:44:38
+11) 80:E6:50:0B:26:BA
+
+### Web Application Exploitation
+***
+#### Egov
+1) SKY-SPDU-7798
