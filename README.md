@@ -6,7 +6,7 @@ This Vault is meant to be a guide for completing the gymnasium challenges for NC
 
 
 
-General Tips:
+##### General Tips:
 
 \- Use these walkthroughs to supplement your learning - not replace it
 
@@ -14,47 +14,49 @@ General Tips:
 
 \- There's almost never one singular way to attack a problem, so don't feel chained to my thought process. Feel free to use your own methods you develop.
 
-\- \*All flags are located under the \*\*\[\[flags]]\*\* note. This will help those who want to follow the process but avoid just having the answers there\*
+\- \*All flags are located under the flags note. This will help those who want to follow the process but avoid just having the answers there\*
 
-\#### Sections
+## 
+
+## Sections
 
 \*\*\*
 
-Open Source Intelligence
+###### Open Source Intelligence
 
+###### 
 
+###### Cryptography
 
-Cryptography
+###### 
 
+###### Password Cracking
 
+###### 
 
-Password Cracking
+###### Forensics
 
+###### 
 
+###### Log Analysis
 
-Forensics
+###### 
 
+###### Network Traffic Analysis
 
+###### 
 
-Log Analysis
+###### Scanning and Reconnaissance
 
+###### 
 
+###### Web Application Exploitation
 
-Network Traffic Analysis
+###### 
 
+###### Wireless Access Exploitation
 
+###### 
 
-Scanning and Reconnaissance
-
-
-
-Web Application Exploitation
-
-
-
-Wireless Access Exploitation
-
-
-
-Enumeration and Exploitation
+###### Enumeration and Exploitation
 
