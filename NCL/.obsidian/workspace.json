@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "egov.md",
+                "file": "NCL Gymnasium Writeups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "egov"
+              "title": "NCL Gymnasium Writeups"
             }
           }
         ]
@@ -209,12 +209,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f69cbb04f1a636f",
+  "active": "8ca6f76faa56e849",
   "lastOpenFiles": [
-    "Pasted image 20250923152521.png",
-    "egov.md",
-    "Flags.md",
+    "NCL Gymnasium Writeups.md",
+    "Wireless Access Exploitation/WIFI PCAP 3.md",
     "Walkthrough Images/Egov-Cracked.png",
+    "Pasted image 20250923152521.png",
+    "Web Application Exploitation/egov.md",
+    "Flags.md",
     "Walkthrough Images/Egov-Burpsuite4.png",
     "Walkthrough Images/Egov-Burpsuite3.png",
     "Walkthrough Images/Egov-Burpsuite2.png",
@@ -230,16 +232,13 @@
     "Web Application Exploitation/BurpSuite/Foxy Proxy.md",
     "Web Application Exploitation/BurpSuite/Burpsuite - An Overview.md",
     "Web Application Exploitation/BurpSuite",
-    "Wireless Access Exploitation/WIFI PCAP 3.md",
     "Wireless Access Exploitation/WIFI PCAP 2.md",
     "Wireless Access Exploitation/WIFI PCAP 1.md",
     "Web Application Exploitation",
     "Untitled.md",
-    "NCL Gymnasium Writeups.md",
     "Pasted image 20250923130024.png",
     "Walkthrough Images/WIFI3-Wireshark 4.png",
     "Walkthrough Images/WIFI3-Wireshark 3.png",
-    "Walkthrough Images/WIFI3-Wireshark 2.png",
     "Untitled.canvas",
     "Attatchments/PCAP3.cap",
     "PCAP3.cap",
