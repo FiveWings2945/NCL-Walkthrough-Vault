@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCL Gymnasium Writeups.md",
+                "file": "Web Application Exploitation/Never Winter Bank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NCL Gymnasium Writeups"
+              "title": "Never Winter Bank"
             }
           }
         ]
@@ -209,20 +209,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ca6f76faa56e849",
+  "active": "3b96d7a4592e9879",
   "lastOpenFiles": [
+    "Flags.md",
+    "Web Application Exploitation/Never Winter Bank.md",
+    "Walkthrough Images/NWB-PostExploit.png",
+    "Walkthrough Images/NWB-PreExploit.png",
+    "Walkthrough Images/NWB-PreExploit.png",
+    "Walkthrough Images/NWB-LeakFile.png",
+    "Walkthrough Images/NWB-Leaked File.png",
+    "Walkthrough Images/NWB-Website.png",
+    "2025-09-23.md",
+    "Web Application Exploitation/Web Application Exploitation.md",
     "NCL Gymnasium Writeups.md",
     "Wireless Access Exploitation/WIFI PCAP 3.md",
     "Walkthrough Images/Egov-Cracked.png",
     "Pasted image 20250923152521.png",
     "Web Application Exploitation/egov.md",
-    "Flags.md",
     "Walkthrough Images/Egov-Burpsuite4.png",
     "Walkthrough Images/Egov-Burpsuite3.png",
-    "Walkthrough Images/Egov-Burpsuite2.png",
-    "Walkthrough Images/Egov-Burpsuite1.png",
-    "Walkthrough Images/Egov-Website.png",
-    "Web Application Exploitation/Web Application Exploitation.md",
     "Web Application Exploitation/BurpSuite/Burpsuite.md",
     "Web Application Exploitation/BurpSuite/Other Modules.md",
     "Web Application Exploitation/BurpSuite/Repeater.md",
@@ -236,9 +241,6 @@
     "Wireless Access Exploitation/WIFI PCAP 1.md",
     "Web Application Exploitation",
     "Untitled.md",
-    "Pasted image 20250923130024.png",
-    "Walkthrough Images/WIFI3-Wireshark 4.png",
-    "Walkthrough Images/WIFI3-Wireshark 3.png",
     "Untitled.canvas",
     "Attatchments/PCAP3.cap",
     "PCAP3.cap",
@@ -254,8 +256,6 @@
     "Password Cracking/Kali Linux(TODO).md",
     "Attatchments/Kali_Linux_Shadow.md",
     "Attatchments/RSA Values.md",
-    "Attatchments/Attachments.md",
-    "Password Cracking/Password Cracking.md",
-    "Password Cracking/PDF.md"
+    "Attatchments/Attachments.md"
   ]
 }
