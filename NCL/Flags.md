@@ -153,3 +153,9 @@
 #### Never Winter Bank
 1) /dev/rel.js
 2) SKY-XZOL-5034
+   
+#### Metro Lottery
+1) SKY-EPQK-6930
+
+#### Leek
+1) SKY-IGTA-9193

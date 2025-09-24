@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Application Exploitation/Never Winter Bank.md",
+                "file": "Flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Never Winter Bank"
+              "title": "Flags"
             }
           }
         ]
@@ -209,25 +209,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "3b96d7a4592e9879",
+  "active": "4599f8d307116e26",
   "lastOpenFiles": [
-    "Flags.md",
     "Web Application Exploitation/Never Winter Bank.md",
-    "Walkthrough Images/NWB-PostExploit.png",
-    "Walkthrough Images/NWB-PreExploit.png",
-    "Walkthrough Images/NWB-PreExploit.png",
-    "Walkthrough Images/NWB-LeakFile.png",
-    "Walkthrough Images/NWB-Leaked File.png",
-    "Walkthrough Images/NWB-Website.png",
-    "2025-09-23.md",
-    "Web Application Exploitation/Web Application Exploitation.md",
-    "NCL Gymnasium Writeups.md",
-    "Wireless Access Exploitation/WIFI PCAP 3.md",
-    "Walkthrough Images/Egov-Cracked.png",
-    "Pasted image 20250923152521.png",
+    "Web Application Exploitation/Metro Lottery.md",
     "Web Application Exploitation/egov.md",
-    "Walkthrough Images/Egov-Burpsuite4.png",
-    "Walkthrough Images/Egov-Burpsuite3.png",
+    "Web Application Exploitation/Leek.md",
+    "Flags.md",
+    "Walkthrough Images/Leek-CyberChef Flag.png",
+    "Walkthrough Images/Leek Full Buffer.png",
+    "Walkthrough Images/Leek-Full Buffer.png",
+    "Walkthrough Images/Leek-Cyber Chef.png",
+    "Pasted image 20250924112838.png",
+    "Walkthrough Images/Leek-Buffer Response.png",
+    "Walkthrough Images/Leek-Repeater.png",
+    "Walkthrough Images/Leek-Buffer.png",
+    "Walkthrough Images/Leek-Request-Response.png",
+    "Web Application Exploitation/Leek-Website.png",
+    "Web Application Exploitation/Web Application Exploitation.md",
+    "Wireless Access Exploitation/WIFI PCAP 3.md",
+    "Wireless Access Exploitation/Wireless Access Exploitation.md",
+    "2025-09-23.md",
+    "NCL Gymnasium Writeups.md",
     "Web Application Exploitation/BurpSuite/Burpsuite.md",
     "Web Application Exploitation/BurpSuite/Other Modules.md",
     "Web Application Exploitation/BurpSuite/Repeater.md",
@@ -250,12 +253,9 @@
     "PCAP2.cap",
     "Attatchments/PCAP1.pcap.md",
     "PCAP1 2.pcap",
-    "Wireless Access Exploitation/Wireless Access Exploitation.md",
     "PCAP1 1.pcap",
     "PCAP1.pcap",
     "Password Cracking/Kali Linux(TODO).md",
-    "Attatchments/Kali_Linux_Shadow.md",
-    "Attatchments/RSA Values.md",
-    "Attatchments/Attachments.md"
+    "Attatchments/Kali_Linux_Shadow.md"
   ]
 }
