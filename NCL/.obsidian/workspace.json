@@ -211,15 +211,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "4599f8d307116e26",
+  "active": "5f69cbb04f1a636f",
   "lastOpenFiles": [
-    "Attatchments/git_backup.zip",
-    "Forensics.md",
     "Version Control.md",
+    "Flags.md",
+    "Walkthrough Images/VC-Next Branch.png",
+    "Walkthrough Images/VC-FLAG.txt.png",
     "NCL Gymnasium Writeups.md",
+    "Forensics",
+    "Walkthrough Images/VC-History-Initial Commit.png",
+    "Walkthrough Images/VC-Github Desktop.png",
+    "Attatchments/git_backup.zip",
+    "Forensics/Forensics.md",
     "Web Application Exploitation/Metro Clinic(TODO).md",
     "Enumeration and Exploitation/Binary2.md",
-    "Flags.md",
     "Enumeration and Exploitation/Bytes.md",
     "Enumeration and Exploitation/Binary1.md",
     "Enumeration and Exploitation/Timebomb.md",
@@ -249,16 +254,10 @@
     "Web Application Exploitation/egov.md",
     "Walkthrough Images/Leek-CyberChef Flag.png",
     "Walkthrough Images/Leek Full Buffer.png",
-    "Walkthrough Images/Leek-Full Buffer.png",
-    "Walkthrough Images/Leek-Cyber Chef.png",
-    "Pasted image 20250924112838.png",
-    "Walkthrough Images/Leek-Buffer Response.png",
     "Wireless Access Exploitation/WIFI PCAP 3.md",
     "Wireless Access Exploitation/Wireless Access Exploitation.md",
     "2025-09-23.md",
     "Web Application Exploitation/BurpSuite/Burpsuite.md",
-    "Web Application Exploitation/BurpSuite",
-    "Web Application Exploitation",
     "Untitled.canvas"
   ]
 }
