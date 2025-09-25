@@ -121,9 +121,20 @@
 ***
 #### Version Control
 1) gpeterson@mpd.hacknet.cityinthe.cloud
-2) Facebook
-3) waffles85
+2) SKY-LRHX-4910
+3) Facebook
+4) waffles85
 
+#### File Carving
+1) PNG
+2) 6
+3) SKY-RWCI-4291
+
+#### PDF Forensics
+1) Photoshop
+2) 1.7
+3) PDFTRON
+4) SKY-PDRD-2390
 ### Wireless Access Exploitation
 ***
 #### Wifi PCAP 1

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Version Control.md",
+                "file": "Magic Bytes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Version Control"
+              "title": "Magic Bytes"
             }
           }
         ]
@@ -211,10 +211,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f69cbb04f1a636f",
+  "active": "4599f8d307116e26",
   "lastOpenFiles": [
-    "Version Control.md",
     "Flags.md",
+    "Attatchments/flag.jpeg",
+    "Magic Bytes.md",
+    "Forensics/Forensics.md",
+    "Forensics/PDF Forensics.md",
+    "Attatchments/api.pdf",
+    "Attatchments/encrypted.pdf",
+    "Forensics/PDF Forensics - exiftool output.md",
+    "Forensics/File Carving.md",
+    "Attatchments/green_file",
+    "Walkthrough Images/File Carving - carving.png",
+    "Walkthrough Images/File Carving-HxD.png",
+    "Forensics/Version Control (TODO).md",
     "Walkthrough Images/VC-Next Branch.png",
     "Walkthrough Images/VC-FLAG.txt.png",
     "NCL Gymnasium Writeups.md",
@@ -222,7 +233,6 @@
     "Walkthrough Images/VC-History-Initial Commit.png",
     "Walkthrough Images/VC-Github Desktop.png",
     "Attatchments/git_backup.zip",
-    "Forensics/Forensics.md",
     "Web Application Exploitation/Metro Clinic(TODO).md",
     "Enumeration and Exploitation/Binary2.md",
     "Enumeration and Exploitation/Bytes.md",
@@ -244,20 +254,10 @@
     "Attatchments/PYTHON3.pyc",
     "Walkthrough Images/Python2-cyberchef.png",
     "Walkthrough Images/toolnb.png",
-    "Attatchments/PYTHON1.py",
-    "Attatchments/PYTHON2.pyc",
     "Attatchments/Python1.py.md",
-    "Enumeration and Exploitation",
     "Web Application Exploitation/Leek.md",
-    "Walkthrough Images/Leek-Website.png",
     "Web Application Exploitation/Never Winter Bank.md",
     "Web Application Exploitation/egov.md",
-    "Walkthrough Images/Leek-CyberChef Flag.png",
-    "Walkthrough Images/Leek Full Buffer.png",
-    "Wireless Access Exploitation/WIFI PCAP 3.md",
-    "Wireless Access Exploitation/Wireless Access Exploitation.md",
-    "2025-09-23.md",
-    "Web Application Exploitation/BurpSuite/Burpsuite.md",
     "Untitled.canvas"
   ]
 }

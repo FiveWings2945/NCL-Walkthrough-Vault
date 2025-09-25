@@ -11,8 +11,7 @@ One of our employee's computer was compromised and we saw this backup file leave
 
 Questions
 ***
-Based on the title, we will be working with Git. There is the command line option, but thankfully GitHub has a GUI for working with git repositories ([GitHub Desktop](https://desktop.github.com/download/)). For the sake of demostration, I will work through both.
-
+Based on the title, we will be working with Git. There is the command line option, but thankfully GitHub has a GUI for working with git repositories ([GitHub Desktop](https://desktop.github.com/download/)). For the sake of demonstration, I will work through both.
 ### GUI
 We can open our repository in this GUI environment and start exploring.
 ![[VC-Github Desktop.png]]
@@ -45,7 +44,9 @@ Interesting. This repository has multiple branches. A branch is essentially a su
 
 Bingo! Theres our service, and a password too.
 
-Q3
+Q4
 What was the password on that compromised account?
 
 See the file above
+
+### CMD (TODO)

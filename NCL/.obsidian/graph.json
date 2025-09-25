@@ -25,7 +25,7 @@
       "query": "path:\"Password Cracking\"  ",
       "color": {
         "a": 1,
-        "rgb": 9710079
+        "rgb": 11361535
       }
     },
     {
@@ -55,9 +55,16 @@
         "a": 1,
         "rgb": 16747146
       }
+    },
+    {
+      "query": "path:Forensics  ",
+      "color": {
+        "a": 1,
+        "rgb": 7798963
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
