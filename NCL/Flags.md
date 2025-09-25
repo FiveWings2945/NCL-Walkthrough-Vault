@@ -173,3 +173,15 @@
    
 #### Binary1
 1) NCL-EZOF-4024
+
+#### Binary2
+1) NCL-FYOF-0044
+
+#### TimeBomb
+1) Java
+2) 10
+3) 2022-07-17 13:12:00 UTC
+
+#### Bytes
+1) Python
+2) 534b592d484558482d35363830
