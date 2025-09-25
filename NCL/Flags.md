@@ -159,3 +159,17 @@
 
 #### Leek
 1) SKY-IGTA-9193
+   
+### Enumeration and Exploitation
+***
+#### Python1
+1) (Multiple Answers) `'ESjjjjjjjj'`
+
+#### Python2
+1) mysupersecretpassword
+   
+#### Python3
+1) (Multiple Answers) `'N!?&5i( Os>'`
+   
+#### Binary1
+1) NCL-EZOF-4024

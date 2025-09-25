@@ -46,7 +46,14 @@
       "query": "path:\"Web Application Exploitation\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Enumeration and Exploitation\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16747146
       }
     }
   ],
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1120551959217601,
+  "scale": 0.178063930807115,
   "close": true
 }
