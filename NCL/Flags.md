@@ -135,6 +135,10 @@
 2) 1.7
 3) PDFTRON
 4) SKY-PDRD-2390
+
+#### Magic Bytes
+1) PNG
+2) SKY-DSFG-5792
 ### Wireless Access Exploitation
 ***
 #### Wifi PCAP 1

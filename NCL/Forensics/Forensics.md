@@ -2,14 +2,17 @@
 
 Rooms Covered
 ***
-[[Version Control (TODO)]]
+[[Version Control]]
 [[File Carving]]
 [[PDF Forensics]]
 [[Magic Bytes]]
-[[Docter]]
-[[The Book]]
+[[Docter (TODO)]]
+[[The Book (TODO)]]
 
 Tools Used
 ***
 GitHub
 Git
+Binwalk
+exiftool
+HxD

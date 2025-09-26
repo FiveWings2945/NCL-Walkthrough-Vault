@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Bytes.md",
+                "file": "NCL Gymnasium Writeups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Bytes"
+              "title": "NCL Gymnasium Writeups"
             }
           }
         ]
@@ -213,10 +213,20 @@
   },
   "active": "4599f8d307116e26",
   "lastOpenFiles": [
-    "Flags.md",
-    "Attatchments/flag.jpeg",
-    "Magic Bytes.md",
+    "Web Application Exploitation/Metro Clinic(TODO).md",
+    "NCL Gymnasium Writeups.md",
     "Forensics/Forensics.md",
+    "Forensics/The Book (TODO).md",
+    "Forensics/Docter (TODO).md",
+    "Attatchments/SuperAwesomeDoc.docx",
+    "Forensics/Version Control.md",
+    "Forensics/Magic Bytes.md",
+    "Flags.md",
+    "Walkthrough Images/MB-Flag.png",
+    "Walkthrough Images/MB-PNG opening.png",
+    "Walkthrough Images/MB-HxD Footer.png",
+    "Walkthrough Images/MB-HxD Header.png",
+    "Attatchments/flag.jpeg",
     "Forensics/PDF Forensics.md",
     "Attatchments/api.pdf",
     "Attatchments/encrypted.pdf",
@@ -225,15 +235,11 @@
     "Attatchments/green_file",
     "Walkthrough Images/File Carving - carving.png",
     "Walkthrough Images/File Carving-HxD.png",
-    "Forensics/Version Control (TODO).md",
     "Walkthrough Images/VC-Next Branch.png",
     "Walkthrough Images/VC-FLAG.txt.png",
-    "NCL Gymnasium Writeups.md",
     "Forensics",
     "Walkthrough Images/VC-History-Initial Commit.png",
-    "Walkthrough Images/VC-Github Desktop.png",
     "Attatchments/git_backup.zip",
-    "Web Application Exploitation/Metro Clinic(TODO).md",
     "Enumeration and Exploitation/Binary2.md",
     "Enumeration and Exploitation/Bytes.md",
     "Enumeration and Exploitation/Binary1.md",
@@ -248,16 +254,11 @@
     "RE1_64bit.md",
     "Attatchments/RE1_64bit 1",
     "Attatchments/RE1_64bit",
-    "Walkthrough Images/Python3-toolnb.png",
     "Web Application Exploitation/Metro Lottery.md",
     "Web Application Exploitation/Web Application Exploitation.md",
-    "Attatchments/PYTHON3.pyc",
-    "Walkthrough Images/Python2-cyberchef.png",
-    "Walkthrough Images/toolnb.png",
     "Attatchments/Python1.py.md",
     "Web Application Exploitation/Leek.md",
     "Web Application Exploitation/Never Winter Bank.md",
-    "Web Application Exploitation/egov.md",
     "Untitled.canvas"
   ]
 }

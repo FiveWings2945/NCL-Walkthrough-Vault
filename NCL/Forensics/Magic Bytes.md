@@ -45,3 +45,32 @@ Warning                         : JPEG format error
 ```
 
 Thats interesting. Its giving us a JPEG format error. Maybe then its something deeper that is wrong. Something on the binary level. Lets open up our favorite hex editor (in my case, thats HxD)
+
+![[MB-HxD Header.png]]
+
+The header is correct for a Jpeg/Jfif file. Lets check the footer
+
+![[MB-HxD Footer.png]]
+
+Ahah! That's a PNG footer! Now all we have to do is figure out what the original file is. Assuming since the file came as a jpeg wit a png footer, the image will be a PNG. All we have to do is edit the header to the png header `89 50 4E 47 0D 0A 1A 0A`.
+
+Q1
+What is the original file type? 
+
+We found what the footer type was and we can figure that the image follows that.
+
+
+Continuing on, we can rename the image to PNG and open it up.
+
+![[MB-PNG opening.png]]
+
+Huh? Whats going on? We edited the header so everything should be fine, right? Well, we look back to the image hex and find some leftover hex from the JFIF header. The header for that file type is a bit longer than PNG (by 2 bytes). So we can zero that out and try opening our file again.
+
+![[MB-Flag.png]]
+
+There we go. That wasn't too bad
+
+Q2
+Whats the flag?
+
+Found after recovering the corrupt image
