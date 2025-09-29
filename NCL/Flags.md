@@ -139,6 +139,28 @@
 #### Magic Bytes
 1) PNG
 2) SKY-DSFG-5792
+
+### Log Analysis
+***
+#### SSH
+1) myraptor
+2) 169.139.243.218
+3) 56.13.188.38
+4) 30.167.206.91
+5) harvey
+6) 30.167.206.91
+
+#### Ngnix
+1) 47
+2) 19
+3) 38
+4) 186.64.69.141
+5) 2.1
+6) 61.161.130.241
+7) 31.0
+8) GET
+9) CON
+10) 6
 ### Wireless Access Exploitation
 ***
 #### Wifi PCAP 1

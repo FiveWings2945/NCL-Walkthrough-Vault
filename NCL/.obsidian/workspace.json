@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCL Gymnasium Writeups.md",
+                "file": "Log Analysis/Nginx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NCL Gymnasium Writeups"
+              "title": "Nginx"
             }
           }
         ]
@@ -37,10 +37,14 @@
                 "id": "8ca6f76faa56e849",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Log Analysis/Log Analysis.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Log Analysis"
                 }
               }
             ]
@@ -211,9 +215,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "4599f8d307116e26",
+  "active": "8ca6f76faa56e849",
   "lastOpenFiles": [
+    "Log Analysis/Nginx.md",
+    "Flags.md",
+    "Log Analysis/Nginx Python Script.md",
     "Web Application Exploitation/Metro Clinic(TODO).md",
+    "Walkthrough Images/Leek-Cyber Chef.png",
+    "Forensics/PDF Forensics - exiftool output.md",
+    "Attatchments/access.log",
+    "Log Analysis/SSH.md",
+    "Log Analysis/Log Analysis.md",
+    "Log Analysis",
+    "Attatchments/auth.log",
     "NCL Gymnasium Writeups.md",
     "Forensics/Forensics.md",
     "Forensics/The Book (TODO).md",
@@ -221,7 +235,6 @@
     "Attatchments/SuperAwesomeDoc.docx",
     "Forensics/Version Control.md",
     "Forensics/Magic Bytes.md",
-    "Flags.md",
     "Walkthrough Images/MB-Flag.png",
     "Walkthrough Images/MB-PNG opening.png",
     "Walkthrough Images/MB-HxD Footer.png",
@@ -230,7 +243,6 @@
     "Forensics/PDF Forensics.md",
     "Attatchments/api.pdf",
     "Attatchments/encrypted.pdf",
-    "Forensics/PDF Forensics - exiftool output.md",
     "Forensics/File Carving.md",
     "Attatchments/green_file",
     "Walkthrough Images/File Carving - carving.png",
@@ -238,7 +250,6 @@
     "Walkthrough Images/VC-Next Branch.png",
     "Walkthrough Images/VC-FLAG.txt.png",
     "Forensics",
-    "Walkthrough Images/VC-History-Initial Commit.png",
     "Attatchments/git_backup.zip",
     "Enumeration and Exploitation/Binary2.md",
     "Enumeration and Exploitation/Bytes.md",
@@ -250,15 +261,7 @@
     "Attatchments/RE2_64bit",
     "Enumeration and Exploitation/Enumeration and Exploitation.md",
     "Attatchments/Bytes.py.md",
-    "Attatchments/Timebomb.class",
     "RE1_64bit.md",
-    "Attatchments/RE1_64bit 1",
-    "Attatchments/RE1_64bit",
-    "Web Application Exploitation/Metro Lottery.md",
-    "Web Application Exploitation/Web Application Exploitation.md",
-    "Attatchments/Python1.py.md",
-    "Web Application Exploitation/Leek.md",
-    "Web Application Exploitation/Never Winter Bank.md",
     "Untitled.canvas"
   ]
 }
