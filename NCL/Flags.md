@@ -26,9 +26,16 @@
 3) Accept
 
 #### WHOIS
+1) dynadot
+2) 2016-02-16
+3) D15CD1AC4DEB54207A5048A69B9FC0558-ARI
+4) .cloud
+5) ARUBA
 
 #### PGP Lookup
-
+1) b6709b4cc6f42077f69841919521bedcabd94ddf
+2) hx@liber8tion\.cityinthe.cloud
+3) 2050-12-26
 #### SSL
 1) Sectigo
 2) 2048 bits

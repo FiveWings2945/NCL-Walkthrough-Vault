@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log Analysis/Nginx.md",
+                "file": "OSINT/WHOIS(TODO).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nginx"
+              "title": "WHOIS(TODO)"
             }
           }
         ]
@@ -215,17 +215,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ca6f76faa56e849",
+  "active": "5f69cbb04f1a636f",
   "lastOpenFiles": [
-    "Log Analysis/Nginx.md",
+    "OSINT/WHOIS(TODO).md",
+    "OSINT/PGP Lookup.md",
     "Flags.md",
+    "OSINT/Threat Intel.md",
+    "OSINT/Barcode.md",
+    "OSINT/HTTP Headers.md",
+    "OSINT/Lookup.md",
+    "OSINT/Meta.md",
+    "Log Analysis/Nginx.md",
+    "Log Analysis/Log Analysis.md",
     "Log Analysis/Nginx Python Script.md",
     "Web Application Exploitation/Metro Clinic(TODO).md",
     "Walkthrough Images/Leek-Cyber Chef.png",
     "Forensics/PDF Forensics - exiftool output.md",
     "Attatchments/access.log",
     "Log Analysis/SSH.md",
-    "Log Analysis/Log Analysis.md",
     "Log Analysis",
     "Attatchments/auth.log",
     "NCL Gymnasium Writeups.md",
@@ -255,13 +262,7 @@
     "Enumeration and Exploitation/Bytes.md",
     "Enumeration and Exploitation/Binary1.md",
     "Enumeration and Exploitation/Timebomb.md",
-    "Enumeration and Exploitation/Python2.md",
-    "Enumeration and Exploitation/Python1.md",
-    "Enumeration and Exploitation/Python3.md",
     "Attatchments/RE2_64bit",
-    "Enumeration and Exploitation/Enumeration and Exploitation.md",
-    "Attatchments/Bytes.py.md",
-    "RE1_64bit.md",
     "Untitled.canvas"
   ]
 }
