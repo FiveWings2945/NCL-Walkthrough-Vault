@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History.md",
+                "file": "Enumeration and Exploitation/Binary1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History"
+              "title": "Binary1"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "4599f8d307116e26",
   "lastOpenFiles": [
-    "Log Analysis/Log Analysis.md",
+    "Enumeration and Exploitation/Binary2.md",
     "History.md",
+    "Log Analysis/Log Analysis.md",
     "Log Analysis/Nginx.md",
     "Log Analysis/Nginx Python Script.md",
     "NCL Gymnasium Writeups.md",
@@ -257,7 +258,6 @@
     "Walkthrough Images/VC-FLAG.txt.png",
     "Forensics",
     "Attatchments/git_backup.zip",
-    "Enumeration and Exploitation/Binary2.md",
     "Attatchments/RE2_64bit",
     "Untitled.canvas"
   ]
