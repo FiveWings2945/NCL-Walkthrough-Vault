@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT/WHOIS(TODO).md",
+                "file": "History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WHOIS(TODO)"
+              "title": "History"
             }
           }
         ]
@@ -37,14 +37,10 @@
                 "id": "8ca6f76faa56e849",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Log Analysis/Log Analysis.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Log Analysis"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ]
@@ -102,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Easy",
+                "query": "TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,19 +211,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f69cbb04f1a636f",
+  "active": "4599f8d307116e26",
   "lastOpenFiles": [
-    "OSINT/WHOIS(TODO).md",
-    "OSINT/PGP Lookup.md",
+    "Log Analysis/Log Analysis.md",
+    "History.md",
+    "Log Analysis/Nginx.md",
+    "Log Analysis/Nginx Python Script.md",
+    "NCL Gymnasium Writeups.md",
     "Flags.md",
+    "Forensics/The Book (TODO).md",
+    "Cryptography/RSA(TODO).md",
+    "Cryptography/Cryptography.md",
+    "OSINT/PGP Lookup.md",
     "OSINT/Threat Intel.md",
+    "OSINT/WHOIS.md",
     "OSINT/Barcode.md",
     "OSINT/HTTP Headers.md",
     "OSINT/Lookup.md",
     "OSINT/Meta.md",
-    "Log Analysis/Nginx.md",
-    "Log Analysis/Log Analysis.md",
-    "Log Analysis/Nginx Python Script.md",
     "Web Application Exploitation/Metro Clinic(TODO).md",
     "Walkthrough Images/Leek-Cyber Chef.png",
     "Forensics/PDF Forensics - exiftool output.md",
@@ -235,9 +236,7 @@
     "Log Analysis/SSH.md",
     "Log Analysis",
     "Attatchments/auth.log",
-    "NCL Gymnasium Writeups.md",
     "Forensics/Forensics.md",
-    "Forensics/The Book (TODO).md",
     "Forensics/Docter (TODO).md",
     "Attatchments/SuperAwesomeDoc.docx",
     "Forensics/Version Control.md",
@@ -259,9 +258,6 @@
     "Forensics",
     "Attatchments/git_backup.zip",
     "Enumeration and Exploitation/Binary2.md",
-    "Enumeration and Exploitation/Bytes.md",
-    "Enumeration and Exploitation/Binary1.md",
-    "Enumeration and Exploitation/Timebomb.md",
     "Attatchments/RE2_64bit",
     "Untitled.canvas"
   ]

@@ -6,7 +6,7 @@ Rooms Covered
 [[Lookup]]
 [[Threat Intel]]
 [[HTTP Headers]]
-[[WHOIS(TODO)]]
+[[WHOIS]]
 [[PGP Lookup]]
 [[SSL]]
 [[Barcode]]
